@@ -33,3 +33,8 @@
 
 詳細なフィルタリング基準・対象サイトは `.claude/rules/` 以下を参照すること。
 各タスクは該当するrulesファイルを読み込んでから実行する。
+
+- `.claude/rules/sites/daily-sources.md` — 対象サイト一覧・各ソースの取得方法・代替URL・検索キーワード
+- `.claude/rules/sites/fetch-flow.md` — WebFetch失敗時のフォールバックフロー・エラー記録ルール
+- `.claude/rules/interests/ai-tools.md` — 関心領域・除外基準
+- `.claude/rules/preferences/output-style.md` — 出力フォーマット・ファイル形式

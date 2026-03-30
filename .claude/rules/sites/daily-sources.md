@@ -11,13 +11,17 @@
 
 ### Anthropic Blog / News
 - URL: https://www.anthropic.com/news
-- 取得方法: WebFetch
+- 代替URL: なし
+- 検索キーワード（WebSearch用）: `Anthropic news announcement 2026`
+- 取得方法: WebFetch → 403/429時はWebSearch（`site:anthropic.com/news 2026` → 0件なら `Anthropic news announcement 2026`）
 - 注目点: 新モデル、新プロダクト、API変更、料金変更
 - 頻度: 毎日確認
 
 ### Claude Release Notes（サポートサイト）
 - URL: https://support.claude.com/en/articles/12138966-release-notes
-- 取得方法: WebFetch
+- 代替URL: なし
+- 検索キーワード（WebSearch用）: `Claude release notes update 2026`
+- 取得方法: WebFetch → 403/429時はWebSearch（`site:support.claude.com release-notes 2026` → 0件なら `Claude release notes update 2026`）
 - 注目点: Claudeプロダクト全体のリリースノート（Web/Desktop/Mobile/API含む）。Changelogとは別軸の情報源
 - 頻度: 毎日確認
 
@@ -25,13 +29,17 @@
 
 ### Cursor Changelog
 - URL: https://cursor.com/changelog
-- 取得方法: WebFetch
+- 代替URL: なし
+- 検索キーワード（WebSearch用）: `Cursor changelog new features 2026`
+- 取得方法: WebFetch → 403/429時はWebSearch（`site:cursor.com changelog 2026` → 0件なら `Cursor changelog new features 2026`）
 - 注目点: 新機能、エージェント改善、IDE統合、料金変更
 - 頻度: 毎日確認
 
 ### Devin Release Notes
 - URL: https://docs.devin.ai/release-notes/overview
-- 取得方法: WebFetch
+- 代替URL: なし
+- 検索キーワード（WebSearch用）: `Devin AI release notes update 2026`
+- 取得方法: WebFetch → 403/429時はWebSearch（`site:docs.devin.ai release-notes 2026` → 0件なら `Devin AI release notes update 2026`）
 - 注目点: 新機能、モデル更新、料金変更
 - 頻度: 毎日確認
 
