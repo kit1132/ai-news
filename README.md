@@ -10,7 +10,7 @@ AIエージェント・開発ツールのニュースを毎朝自動収集し、
 
 ## ビューア
 
-https://rfdnxbro.github.io/ai-news/
+
 
 ## Forkして使う場合
 
