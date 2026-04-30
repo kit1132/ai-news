@@ -4,7 +4,7 @@ AIエージェント・開発ツールのニュースを毎朝自動収集し、
 
 ## 仕組み
 
-- Claude Code on the web のスケジュールタスクで毎朝 7:00 (JST) に実行
+- Claude Code on the web のスケジュールタスクで毎朝 4:00 (JST) に実行
 - 対象サイトから WebFetch / WebSearch で情報を収集し、前回との差分を抽出
 - Markdown形式のダイジェストを生成し、GitHub Pagesで公開
 
